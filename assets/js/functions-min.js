@@ -1472,5 +1472,5 @@ function sendEmailRequest() {
     "like " +
     dolist;
 
-  window.open(url, "_blank").focus();
+  window.open(url, "_self").focus();
 }
