@@ -1473,4 +1473,5 @@ function sendEmailRequest() {
     dolist;
 
   window.open(url, "_self").focus();
+  console.log(url);
 }
